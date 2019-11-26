@@ -8,7 +8,7 @@ setup(
   author='hotbless',                   # Type in your name
   author_email='hotbless@gmail.com',      # Type in your E-Mail
   url='https://github.com/hotbless/hotool',   # Provide either the link to your github or to your website
-  download_url='https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url='https://github.com/hotbless/hotool/archive/0.1.0.tar.gz',
   keywords=['python', 'hotool'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
