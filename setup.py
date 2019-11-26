@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name='hotool',         # How you named your package folder (MyLib)
   packages=['hotool'],   # Chose the same as "name"
-  version='0.1.0',      # Start with a small number and increase it with every change you make
+  version='0.1.1000',      # Start with a small number and increase it with every change you make
   license='GPL-3.0',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description='Tools and tricks for python work',   # Give a short description about your library
   author='hotbless',                   # Type in your name
   author_email='hotbless@gmail.com',      # Type in your E-Mail
   url='https://github.com/hotbless/hotool',   # Provide either the link to your github or to your website
-  download_url='https://github.com/hotbless/hotool/archive/0.1.0.tar.gz',
+  download_url='https://github.com/hotbless/hotool/archive/0.1.1000.tar.gz',
   keywords=['python', 'hotool'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
