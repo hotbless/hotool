@@ -1,2 +1,2 @@
 # hotool
-hotool is a tools and tricks set for python production.
+hotool is a convenient tool set implemented in python.
